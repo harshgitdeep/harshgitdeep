@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Harshdeep Singh</h1>
 <h3 align="center">I'm 2nd year computer science and engineering student from India</h3>
  
- <img align="right" alt="Coding" width="400" src="https://i.ibb.co/mzcCdTv/github-readme-icon-removebg-preview.png">
+ <img align="right" alt="Coding" width="400" src="https://i.ibb.co/8cSfLrL/Hd.png" alt="Hd" border="2" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iharsh3&label=Profile%20views&color=0e75b6&style=flat" alt="iharsh3" /> </p>
 
 - 🌱 I’m currently learning **Data structures in c++**
