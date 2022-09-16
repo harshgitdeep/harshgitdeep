@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Harshdeep Singh</h1>
+<h1 align="center">Hi there 👋, I'm Harshdeep Singh</h1>
 <h3 align="center">I'm 2nd year computer science and engineering student from India</h3>
  
  <img align="right" alt="Coding" width="400" src="https://i.ibb.co/pnX93KW/Happy-Bunch-Desk.png">
