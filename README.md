@@ -7,5 +7,6 @@
 📫 Reach me at
 
 ### - Linkedin: [Harshdeep Singh](https://www.linkedin.com/in/harshdeepsingh-/) <br>
+### - Twitter: [harshgitdeep](https://twitter.com/harshgitdeep)
 ### - Instagram: [@iharsh__3](https://www.instagram.com/iharsh__3/)
 ### - Email - **harshzone3@gmail.com**
