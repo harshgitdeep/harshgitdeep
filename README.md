@@ -3,7 +3,6 @@
 ### Welcome to my profile, I'm Harshdeep Singh <br>
 #### Currently pursuing BE in Computer Science and Engineering from Chitkara University, Rajpura.
 <hr>
-<br>
 
 ## 📫 Reach me out at
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/YourTwitterHandle)](https://twitter.com/harshgitdeep)
