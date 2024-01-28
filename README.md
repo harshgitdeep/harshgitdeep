@@ -1,8 +1,9 @@
 # Java | Front-End Developer
 ### Welcome to my profile, I'm Harshdeep Singh <br>
-#### Currently pursuing BE in Computer Science and Engineering from Chitkara University, Rajpura.
+#### Currently pursuing BE in Computer Science and Engineering from Chitkara University, Punjab.
 <hr>
-![Uploading giphy.gif…]()
+
+![giphy](https://github.com/harshgitdeep/harshgitdeep/assets/88957566/48e1c6a6-3b96-471b-9d1d-97c5421e6d20)
 
 ## 📫 Reach me out at
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/harshgitdeep)](https://twitter.com/harshgitdeep)
