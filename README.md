@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harshdeep Singh</h1>
 <h3 align="center">BE CSE Student @ Chitkara University,Punjab | Java, DSA, React | Software Development</h3>
 
-- 👨‍💻 All of my projects are available at [https://harshgitdeep.netlify.app/](https://harshgitdeep.netlify.app/)
+- 👨‍💻 All of my projects are available at [harshgitdeep.netlify.app](https://harshgitdeep.netlify.app/)
 
 - 📫 How to reach me **harshzone3@gmail.com**
 
