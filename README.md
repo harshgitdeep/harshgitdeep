@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [harshgitdeep.netlify.app](https://harshgitdeep.netlify.app/)
 
-- 📫 How to reach me **harshzone3@gmail.com**
+- 📫 Drop a mail at **harshzone3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
