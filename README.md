@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Harsh 👋🏼 </h1>
+<h2 align="left">Hi, I'm Harsh 👋🏼 </h2>
 
 
 <div  align="center">
