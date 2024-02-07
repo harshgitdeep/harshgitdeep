@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Harshdeep Singh</h1>
-<h3 align="center">BE CSE Student @ Chitkara University, Punjab | Java, DSA, React | Software Development</h3>
-
-<img align="right" alt="coding" height="130" src="https://github.com/harshgitdeep/harshgitdeep/assets/88957566/3e5cdcd2-e7eb-402f-8f98-9013e4fd2864" />
+<h1 align="left">Hi, I'm Harsh 👋🏼 </h1>
 
 
-- 👨‍💻 All of my projects are available at [![Custom button](https://img.shields.io/badge/Portfolio-brightgreen)](https://harshgitdeep.netlify.app/)
+<div  align="center">
+  <img align="center" alt="coding" width="100%" src="https://github.com/harshgitdeep/harshgitdeep/assets/88957566/2f1a1afe-f571-4450-ab95-d0557f684f13" />
+</div>
 
+<br>
 <h3 align="left">Connect with me:</h3>
 
 
@@ -19,4 +19,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,react,vite,bootstrap,tailwind,nodejs,express,mongodb,mysql,git,github,vercel,netlify,linux,vscode&theme=light)]
+![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,react,vite,bootstrap,tailwind,nodejs,express,mongodb,mysql,git,github,vercel,netlify,linux,vscode&theme=light)
