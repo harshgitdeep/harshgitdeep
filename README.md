@@ -2,7 +2,7 @@
 
 
 <div  align="center">
-  <img align="center" alt="coding" width="100%" src="https://github.com/harshgitdeep/harshgitdeep/assets/88957566/2f1a1afe-f571-4450-ab95-d0557f684f13" />
+  <a href="https://harshgitdeep.netlify.app/" target="_blank"> <img align="center" alt="coding" width="100%" src="https://github.com/harshgitdeep/harshgitdeep/assets/88957566/2f1a1afe-f571-4450-ab95-d0557f684f13" /> </a>
 </div>
 
 <br>
