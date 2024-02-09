@@ -10,13 +10,15 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 
-
-
-
 [![twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/harshgitdeep)
 [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/harshdeepsingh-/)
 [![instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/iharsh__3)
 [![gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:harshzone3@gmail.com)
+
+<h3 align="left">My Projects:</h3>
+1. <a href="https://accurategraphics.netlify.app/" target="_blank">Accurate Graphics</a> <br>
+2. <a href="https://safepass-harshgitdeep.netlify.app/">SafePass</a> <br>
+3. <a href="https://digiclock-project.netlify.app/">DigiClock</a> <br>
 
 
 <h3 align="left">Languages and Tools:</h3>
