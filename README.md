@@ -15,9 +15,9 @@
 [![instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/iharsh__3)
 [![gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:harshzone3@gmail.com)
 
-<h3 align="left">My Projects:</h3>
-1. <a href="https://github.com/harshgitdeep/wordhive" target="_blank">WordHive</a> <br>
-2. <a href="https://github.com/harshgitdeep/solve9">Solve9</a> <br>
+<h2 align="left">My Projects:</h2>
+<h3>1. <a href="https://github.com/harshgitdeep/wordhive" target="_blank">WordHive</a> <br></h3>
+<h3>2. <a href="https://github.com/harshgitdeep/solve9">Solve9</a> <br></h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
