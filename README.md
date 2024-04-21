@@ -16,9 +16,8 @@
 [![gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:harshzone3@gmail.com)
 
 <h3 align="left">My Projects:</h3>
-1. <a href="https://accurategraphics.netlify.app/" target="_blank">Accurate Graphics</a> <br>
-2. <a href="https://safepass-harshgitdeep.netlify.app/">SafePass</a> <br>
-3. <a href="https://digiclock-project.netlify.app/">DigiClock</a> <br>
+1. <a href="https://github.com/harshgitdeep/wordhive" target="_blank">WordHive</a> <br>
+2. <a href="https://github.com/harshgitdeep/solve9">Solve9</a> <br>
 
 
 <h3 align="left">Languages and Tools:</h3>
