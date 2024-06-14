@@ -2,7 +2,7 @@
 
 
 <div  align="center">
-<!--   <a href="https://harshgitdeep.netlify.app/" target="_blank"> <img align="center" alt="coding" width="100%" src="https://github.com/harshgitdeep/harshgitdeep/assets/88957566/2f1a1afe-f571-4450-ab95-d0557f684f13" /> </a> -->
+<!--   <a href="https://harshdeep-singh-portfolio.netlify.app/" target="_blank"> <img align="center" alt="coding" width="100%" src="https://github.com/harshgitdeep/harshgitdeep/assets/88957566/2f1a1afe-f571-4450-ab95-d0557f684f13" /> </a> -->
   <a href="https://harshgitdeep.netlify.app/" target="_blank"> <img align="center" alt="coding" width="100%" src="https://github.com/harshgitdeep/harshgitdeep/assets/88957566/f16730a9-a3e9-4c83-9716-7310b16b8970" /> </a>
 </div>
 
