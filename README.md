@@ -3,7 +3,7 @@
 
 <div  align="center">
 
-  <a href="https://harshdeep-singh-portfolio.netlify.app/" target="_blank"> <img align="center" alt="coding" width="100%" src="https://github.com/user-attachments/assets/53b3744c-d82f-4f88-8456-303fe189255a" /> </a>
+  <a href="https://harshgitdeep.vercel.app/" target="_blank"> <img align="center" alt="coding" width="100%" src="https://github.com/user-attachments/assets/53b3744c-d82f-4f88-8456-303fe189255a" /> </a>
 </div>
 
 
