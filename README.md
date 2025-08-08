@@ -10,10 +10,6 @@
 - 🌱 Working on Next.js, Dotnet 8, MySQL, Azure dev ops
 <br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshgitdeep&theme=radical" alt="GitHub Streak" />
-</p>
-
 <h3 align="left">Connect with me:</h3>
 
 [![twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/harshgitdeep)
