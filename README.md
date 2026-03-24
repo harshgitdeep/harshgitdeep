@@ -5,11 +5,6 @@
 
 <br>
 
-### 👨‍💻 About Me:
-- 🔭 Currently working as **SDE Intern** at CG Infinity, Noida
-- 🌱 Working on Next.js, Dotnet 8, MySQL, Azure dev ops
-<br>
-
 <h3 align="left">Connect with me:</h3>
 
 [![twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/harshgitdeep)
