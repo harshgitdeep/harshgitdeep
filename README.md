@@ -82,35 +82,11 @@ AI-Assisted Products
 ```
 
 ---
+## ⚙️ Tech Stack
 
-## Technical Foundation
-
-**Languages**
-
-Java • JavaScript • SQL
-
-**Frontend**
-
-React • HTML • CSS
-
-**Backend**
-
-Node.js • Express • .NET Core
-
-**Databases**
-
-MongoDB • MySQL • SQL Server
-
-**Tools**
-
-Git • Docker • Postman
-
-**Core CS**
-
-Data Structures & Algorithms
-Object-Oriented Programming
-Operating Systems
-Database Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,dotnet,mongodb,mysql,git,github,docker,postman,vscode,firebase" />
+</p>
 
 ---
 
