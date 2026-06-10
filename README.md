@@ -1,10 +1,19 @@
-<div  align="center">
+<!-- <div  align="center">
 
   <a href="https://harshgitdeep.vercel.app/" target="_blank"> <img align="center" alt="coding" width="100%" src="https://github.com/user-attachments/assets/53b3744c-d82f-4f88-8456-303fe189255a" /> </a>
-</div>
+</div> -->
 
+# Hi 👋 I'm Harshdeep Singh
+
+Software Engineer | Full Stack Developer
+
+🚀 React.js | Node.js | Express.js | SQL Server
+
+📍 Mohali, India
+
+Currently building AI-powered developer tools.
 <br>
-
+---
 <h3 align="left">Connect with me:</h3>
 
 [![twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/harshgitdeep)
