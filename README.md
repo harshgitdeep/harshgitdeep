@@ -1,42 +1,140 @@
-<!-- <div  align="center">
+<div align="left">
 
-  <a href="https://harshgitdeep.vercel.app/" target="_blank"> <img align="center" alt="coding" width="100%" src="https://github.com/user-attachments/assets/53b3744c-d82f-4f88-8456-303fe189255a" /> </a>
-</div> -->
+# Harshdeep Singh
 
-# Hi 👋 I'm Harshdeep Singh
+Software Engineer focused on building internal tools, developer productivity solutions, and full-stack web applications.
 
-Software Engineer | Full Stack Developer
+<a href="https://harshgitdeep.vercel.app">Portfolio</a> • <a href="https://linkedin.com/in/harshdeepsingh-/">LinkedIn</a> • <a href="https://github.com/harshgitdeep">GitHub</a> • <a href="https://leetcode.com/u/harshgitdeep/">LeetCode</a>
 
-🚀 React.js | Node.js | Express.js | SQL Server
+</div>
 
-📍 Mohali, India
-
-Currently building AI-powered developer tools.
-<br>
 ---
-<h3 align="left">Connect with me:</h3>
 
-[![twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/harshgitdeep)
-[![linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/harshdeepsingh-/)
-[![instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/iharsh__3)
-[![gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:harshzone3@gmail.com)
+## A Few Things I've Worked On
 
-<h2 align="left">My Projects:</h2>
-<h3>1. <a href="https://github.com/harshgitdeep/wordhive" target="_blank">WordHive</a> <br></h3>
-<h3>2. <a href="https://github.com/harshgitdeep/solve9">Solve9</a> <br></h3>
-<h3>3. <a href="https://github.com/harshgitdeep/accurategraphics">Accurate Graphics</a> <br></h3>
+### 🏥 Healthcare Operations Platform
 
-<br>
-<hr>
+At Cotiviti, I build tools that help healthcare clients monitor and process large volumes of transaction data.
 
-<h3 align="left">Languages and Tools:</h3>
+Some of the work includes:
 
+* React dashboards for operational visibility
+* SQL automation and scheduled reporting
+* Healthcare EDI validation and business rule processing
 
+---
 
-![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,react,vite,bootstrap,tailwind,nodejs,express,mongodb,mysql,git,github,vercel,netlify,linux,vscode&theme=light)
+### 🚀 HR Management System Modernization
 
-<br>
+At Cyber Group Infinity, I worked on migrating an enterprise HR platform from .NET Framework to .NET Core.
+
+Contributions included:
+
+* Modernizing backend services
+* Improving SQL query performance
+* Building leave management and resource allocation modules
+* Supporting internal teams through production-ready features
+
+---
+
+## Selected Projects
+
+### 📊 BuildLogger
+
+A VS Code extension that helps developers understand build failures faster.
+
+Features:
+
+* Build tracking
+* Trend visualization
+* AI-powered fix suggestions
+* Firebase analytics integration
+
+**Tech:** JavaScript, Gemini AI, Firebase, Power BI
+
+---
+
+### ✍️ WordHive
+
+A MERN-based publishing platform with authentication, authorization, and content management capabilities.
+
+Features:
+
+* JWT Authentication
+* Role-based Access Control
+* REST APIs
+* Persistent Login
+
+**Tech:** MongoDB, Express, React, Node.js
+
+---
+
+## What I Enjoy Building
+
+```text
+Developer Tools
+Internal Platforms
+Automation Workflows
+Full Stack Applications
+AI-Assisted Products
+```
+
+---
+
+## Technical Foundation
+
+**Languages**
+
+Java • JavaScript • SQL
+
+**Frontend**
+
+React • HTML • CSS
+
+**Backend**
+
+Node.js • Express • .NET Core
+
+**Databases**
+
+MongoDB • MySQL • SQL Server
+
+**Tools**
+
+Git • Docker • Postman
+
+**Core CS**
+
+Data Structures & Algorithms
+Object-Oriented Programming
+Operating Systems
+Database Systems
+
+---
+
+## Highlights
+
+🏆 1st Runner-Up — CG Infinity Hackathon
+
+📦 Published VS Code Extension on VS Marketplace
+
+💻 Solved 300+ LeetCode Problems
+
+🎓 B.E. Computer Science — CGPA 9.17/10
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshgitdeep&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshgitdeep&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgitdeep&layout=compact&hide_border=true" />
 </p>
+
+---
+
+<div align="center">
+
+Building software that makes work easier, faster, and more reliable.
+
+</div>
