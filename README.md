@@ -6,6 +6,8 @@ Software Engineer focused on building internal tools, developer productivity sol
 
 <a href="https://harshgitdeep.vercel.app">Portfolio</a> • <a href="https://linkedin.com/in/harshdeepsingh-/">LinkedIn</a> • <a href="https://github.com/harshgitdeep">GitHub</a> • <a href="https://leetcode.com/u/harshgitdeep/">LeetCode</a>
 
+
+
 </div>
 
 ---
@@ -37,7 +39,7 @@ Contributions included:
 
 ---
 
-## Selected Projects
+## Personal Projects
 
 ### 📊 BuildLogger
 
@@ -127,7 +129,7 @@ Database Systems
 ## GitHub Activity
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshgitdeep&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshgitdeep&show_icons=true&hide_border=true&rank_icon=github" /> <br>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgitdeep&layout=compact&hide_border=true" />
 </p>
 
