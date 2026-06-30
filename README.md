@@ -102,15 +102,6 @@ AI-Assisted Products
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshgitdeep&show_icons=true&hide_border=true&rank_icon=github" /> <br>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgitdeep&layout=compact&hide_border=true" />
-</p>
-
----
-
 <div align="center">
 
 Building software that makes work easier, faster, and more reliable.
