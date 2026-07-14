@@ -71,15 +71,7 @@ Features:
 
 ---
 
-## What I Enjoy Building
-
-```text
-Developer Tools
-Internal Platforms
-Automation Workflows
-Full Stack Applications
-AI-Assisted Products
-```
+<img height="500" alt="building-focus-banner" src="https://github.com/user-attachments/assets/4f1c5c7a-6ed5-4263-82aa-64f8562716cb" />
 
 ---
 ## ⚙️ Tech Stack
@@ -90,15 +82,7 @@ AI-Assisted Products
 
 ---
 
-## Highlights
-
-🏆 1st Runner-Up — CG Infinity Hackathon
-
-📦 Published VS Code Extension on VS Marketplace
-
-💻 Solved 300+ LeetCode Problems
-
-🎓 B.E. Computer Science — CGPA 9.17/10
+<img height="500" alt="highlights_banner" src="https://github.com/user-attachments/assets/45e86282-b4fa-40ba-b6c7-0b45b06aab73" />
 
 ---
 
