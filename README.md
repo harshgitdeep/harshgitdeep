@@ -12,30 +12,8 @@ Software Engineer focused on building internal tools, developer productivity sol
 
 ---
 
-## A Few Things I've Worked On
+<img height="600" alt="experience_banner" src="https://github.com/user-attachments/assets/b7dead9a-2072-4ac2-ad11-fe644c12ce7c" />
 
-### 🏥 Healthcare Operations Platform
-
-At Cotiviti, I build tools that help healthcare clients monitor and process large volumes of transaction data.
-
-Some of the work includes:
-
-* React dashboards for operational visibility
-* SQL automation and scheduled reporting
-* Healthcare EDI validation and business rule processing
-
----
-
-### 🚀 HR Management System Modernization
-
-At Cyber Group Infinity, I worked on migrating an enterprise HR platform from .NET Framework to .NET Core.
-
-Contributions included:
-
-* Modernizing backend services
-* Improving SQL query performance
-* Building leave management and resource allocation modules
-* Supporting internal teams through production-ready features
 
 ---
 
