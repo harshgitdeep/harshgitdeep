@@ -15,7 +15,7 @@
     </td>
     <!-- Right Column: Avatar/Illustration -->
     <td width="45%" valign="middle" align="center">
-      <img width="100%" alt="Harshdeep's Avatar" src="https://github.com/user-attachments/assets/2629f3c8-7f40-4e74-8732-af7e23d6ec3e" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.15);" />
+      <img width="100%" alt="Harshdeep's Avatar" src="https://github.com/user-attachments/assets/528074d7-11bd-416b-aec4-b04e6d99d931" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.15);" />
     </td>
   </tr>
 </table>
@@ -26,7 +26,10 @@
 
 </div>
 
----
+<br>
+<div align="center" >
+  <img width="298" alt="codinggif" src="https://github.com/user-attachments/assets/7a535d2e-696d-40d8-8e3c-9ccc3f287177" />
+</div>
 
 ## 🚀 Featured Projects
 
@@ -67,7 +70,14 @@
   </tr>
 </table>
 
----
+<br>
+<div align="center" >
+  <img width="400" alt="wfh" src="https://github.com/user-attachments/assets/b93ca4d6-85b2-4676-8ae5-c77e44d4f8c4" />
+</div>
+
+
+
+<br>
 
 <div align="center">
 
@@ -94,4 +104,9 @@
 <div align="center">
 
 <img width="100%" alt="highlights_banner" src="https://github.com/user-attachments/assets/45e86282-b4fa-40ba-b6c7-0b45b06aab73" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" />
+</div>
+
+
+<div align="center">
+
 </div>
