@@ -3,7 +3,7 @@
   <tr>
     <!-- Left Column: Name, Subheading & Socials -->
     <td width="55%" valign="middle">
-      <h1>Harshdeep Singh</h1>
+      <h1>Harshdeep Singh</h1
       <h3><strong>Software Engineer | Tools & Productivity Catalyst</strong></h3>
       <br/>
       <p>
@@ -19,17 +19,27 @@
     </td>
   </tr>
 </table>
-  
+
+  <img width="1584" height="396" alt="mario" src="https://github.com/user-attachments/assets/a03c3e00-13e5-41a6-8ae5-53e9175033d6" />
+
+</div>
+
 ---
 
 <img width="100%" alt="experience_banner" src="https://github.com/user-attachments/assets/b7dead9a-2072-4ac2-ad11-fe644c12ce7c" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" />
 
 </div>
+<br>
+
+---
 
 <br>
 <div align="center" >
-  <img width="298" alt="codinggif" src="https://github.com/user-attachments/assets/7a535d2e-696d-40d8-8e3c-9ccc3f287177" />
+  <img width="2851" height="712" alt="code" src="https://github.com/user-attachments/assets/36d89cd7-567f-49f0-a78c-5a80033815ee" />
 </div>
+<br>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -70,10 +80,6 @@
   </tr>
 </table>
 
-<br>
-<div align="center" >
-  <img width="400" alt="wfh" src="https://github.com/user-attachments/assets/b93ca4d6-85b2-4676-8ae5-c77e44d4f8c4" />
-</div>
 
 
 
@@ -110,3 +116,10 @@
 <div align="center">
 
 </div>
+
+
+
+
+
+
+
