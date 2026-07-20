@@ -1,15 +1,25 @@
 <div align="center">
-
-# Harshdeep Singh
-### **Software Engineer | Tools & Productivity Catalyst**
-
-<p align="center">
-  <a href="https://harshgitdeep.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/harshdeepsingh-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/harshgitdeep"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/u/harshgitdeep/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-</p>
-
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <!-- Left Column: Name, Subheading & Socials -->
+    <td width="55%" valign="middle">
+      <h1>Harshdeep Singh</h1>
+      <h3><strong>Software Engineer | Tools & Productivity Catalyst</strong></h3>
+      <br/>
+      <p>
+        <a href="https://harshgitdeep.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ed3e64?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" /></a>
+        <a href="https://linkedin.com/in/harshdeepsingh-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://github.com/harshgitdeep"><img src="https://img.shields.io/badge/GitHub-0FBF3E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+        <a href="https://leetcode.com/u/harshgitdeep/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+      </p>
+    </td>
+    <!-- Right Column: Avatar/Illustration -->
+    <td width="45%" valign="middle" align="center">
+      <img width="100%" alt="Harshdeep's Avatar" src="https://github.com/user-attachments/assets/2629f3c8-7f40-4e74-8732-af7e23d6ec3e" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.15);" />
+    </td>
+  </tr>
+</table>
+  
 ---
 
 <img width="100%" alt="experience_banner" src="https://github.com/user-attachments/assets/b7dead9a-2072-4ac2-ad11-fe644c12ce7c" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" />
