@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-  <img width="1584" height="396" alt="mario" src="https://github.com/user-attachments/assets/a03c3e00-13e5-41a6-8ae5-53e9175033d6" />
+  <img width="1584" alt="mario" src="https://github.com/user-attachments/assets/a03c3e00-13e5-41a6-8ae5-53e9175033d6" />
 
 </div>
 
@@ -35,7 +35,7 @@
 
 <br>
 <div align="center" >
-  <img width="2851" height="712" alt="code" src="https://github.com/user-attachments/assets/36d89cd7-567f-49f0-a78c-5a80033815ee" />
+  <img width="2851" alt="code" src="https://github.com/user-attachments/assets/36d89cd7-567f-49f0-a78c-5a80033815ee" />
 </div>
 <br>
 
