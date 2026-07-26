@@ -26,6 +26,36 @@
 
 ---
 
+## 🚧 Building Telephonum
+
+<table>
+<tr>
+<td width="30%" align="center" valign="middle">
+
+<a href="https://github.com/harshgitdeep/telephonum">
+  <img width="220" alt="Telephonum AI" src="https://github.com/user-attachments/assets/7848ca4a-6ee7-4cb6-9a1d-79deb98b7b98" />
+</a>
+
+</td>
+
+<td width="70%" valign="middle">
+
+### 🎙️ Telephonum
+#### AI-Powered Conversation Intelligence Platform
+
+I'm currently building **Telephonum**, a modern AI-powered platform that automatically records, transcribes, analyzes, and evaluates customer conversations to generate actionable business insights, improve agent performance, and enhance customer experience.
+
+
+<a href="https://github.com/harshgitdeep/telephonum">
+  <img src="https://img.shields.io/badge/Explore%20Repository-1f883D?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
 <img width="100%" alt="experience_banner" src="https://github.com/user-attachments/assets/b7dead9a-2072-4ac2-ad11-fe644c12ce7c" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" />
 
 </div>
