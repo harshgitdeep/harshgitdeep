@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-  <img width="1584" alt="mario" src="https://github.com/user-attachments/assets/a03c3e00-13e5-41a6-8ae5-53e9175033d6" />
+  <img width="1584" alt="mario-gif" src="https://github.com/user-attachments/assets/a03c3e00-13e5-41a6-8ae5-53e9175033d6" />
 
 </div>
 
