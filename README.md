@@ -3,7 +3,7 @@
   <tr>
     <!-- Left Column: Name, Subheading & Socials -->
     <td width="55%" valign="middle">
-      <h1>Harshdeep Singh</h1
+      <h1>Harshdeep Singh</h1>
       <h3><strong>Software Engineer | Tools & Productivity Catalyst</strong></h3>
       <br/>
       <p>
