@@ -26,7 +26,7 @@
 
 ---
 
-## 🚧 Building Telephonum
+<!--## 🚧 Building Telephonum
 
 <table>
 <tr>
@@ -54,7 +54,7 @@ I'm currently building **Telephonum**, a modern AI-powered platform that automat
 </tr>
 </table>
 
----
+-->
 
 <img width="100%" alt="experience_banner" src="https://github.com/user-attachments/assets/b7dead9a-2072-4ac2-ad11-fe644c12ce7c" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" />
 
