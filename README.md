@@ -4,7 +4,7 @@
     <!-- Left Column: Name, Subheading & Socials -->
     <td width="55%" valign="middle">
       <h1>Harshdeep Singh</h1>
-      <h3><strong>Software Engineer | Tools & Productivity Catalyst</strong></h3>
+      <h3><strong>Full Stack Software Engineer</strong></h3>
       <br/>
       <p>
         <a href="https://harshgitdeep.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ed3e64?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" /></a>
@@ -24,6 +24,18 @@
 
 </div>
 
+---
+## 🛠️ Technical Skills
+
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Programming Languages** | Java, JavaScript |
+| **Frontend Technologies** | React.js, HTML5, CSS3, State Management, Responsive UI |
+| **Backend Technologies** | Node.js, Express.js, REST API Design, Authentication (JWT) |
+| **AI Technologies** | Gemini/OpenAI API Integration, Claude Code, Antigravity, GitHub Copilot |
+| **Tools** | Git, GitHub, Docker, Postman |
+| **Databases** | MySQL, SQL Server, MongoDB |
+| **Core Computer Science** | Data Structures & Algorithms, Operating Systems, OOP, DBMS |
 ---
 
 <!--## 🚧 Building Telephonum
@@ -56,10 +68,9 @@ I'm currently building **Telephonum**, a modern AI-powered platform that automat
 
 -->
 
-<img width="100%" alt="experience_banner" src="https://github.com/user-attachments/assets/b7dead9a-2072-4ac2-ad11-fe644c12ce7c" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" />
+<!-- <img width="100%" alt="experience_banner" src="https://github.com/user-attachments/assets/b7dead9a-2072-4ac2-ad11-fe644c12ce7c" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" /> -->
 
 </div>
-<br>
 
 ---
 
@@ -71,8 +82,10 @@ I'm currently building **Telephonum**, a modern AI-powered platform that automat
 
 ---
 
-## 🚀 Featured Projects
 
+
+<!-- 
+## 🚀 Featured Projects
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -108,42 +121,32 @@ I'm currently building **Telephonum**, a modern AI-powered platform that automat
       </p>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
 
-<br>
+<!-- <br> -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="100%" alt="building-focus-banner" src="https://github.com/user-attachments/assets/4f1c5c7a-6ed5-4263-82aa-64f8562716cb" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" />
 
-</div>
+</div> -->
 
 ---
 
-## 🛠️ Technical Skills
 
-| Category | Skills & Technologies |
-| :--- | :--- |
-| **Programming Languages** | Java, JavaScript |
-| **Frontend Technologies** | React.js, HTML5, CSS3, State Management, Responsive UI |
-| **Backend Technologies** | Node.js, Express.js, REST API Design, Authentication (JWT) |
-| **AI Technologies** | Gemini/OpenAI API Integration, Claude Code, Antigravity, GitHub Copilot |
-| **Tools** | Git, GitHub, Docker, Postman |
-| **Databases** | MySQL, SQL Server, MongoDB |
-| **Core Computer Science** | Data Structures & Algorithms, Operating Systems, OOP, DBMS |
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="100%" alt="highlights_banner" src="https://github.com/user-attachments/assets/45e86282-b4fa-40ba-b6c7-0b45b06aab73" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" />
 </div>
 
 
-<div align="center">
+<div align="center"> -->
 
 </div>
 
