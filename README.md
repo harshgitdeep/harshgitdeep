@@ -78,7 +78,6 @@ I'm currently building **Telephonum**, a modern AI-powered platform that automat
 <div align="center" >
   <img width="2851" alt="code" src="https://github.com/user-attachments/assets/36d89cd7-567f-49f0-a78c-5a80033815ee" />
 </div>
-<br>
 
 ---
 
@@ -133,12 +132,6 @@ I'm currently building **Telephonum**, a modern AI-powered platform that automat
 <img width="100%" alt="building-focus-banner" src="https://github.com/user-attachments/assets/4f1c5c7a-6ed5-4263-82aa-64f8562716cb" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" />
 
 </div> -->
-
----
-
-
-
----
 
 <!-- <div align="center">
 
