@@ -5,6 +5,13 @@
     <td width="55%" valign="middle">
       <h1>Harshdeep Singh</h1>
       <h3><strong>Full Stack Software Engineer</strong></h3>
+      <div align="left">
+  <img
+    width="200"
+    alt="f"
+    src="https://github.com/user-attachments/assets/e5fa15dd-c66f-4024-a77e-f0fd2982d023"
+  />
+</div>
       <br/>
       <p>
         <a href="https://harshgitdeep.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ed3e64?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" /></a>
