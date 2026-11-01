@@ -6,11 +6,15 @@
       <h1>Harshdeep Singh</h1>
       <h3><strong>Full Stack Software Engineer</strong></h3>
       <div align="left">
-  <img
-    width="200"
-    alt="f"
-    src="https://github.com/user-attachments/assets/e5fa15dd-c66f-4024-a77e-f0fd2982d023"
-  />
+<div align="left">
+  <a href="https://github.com/harshgitdeep">
+    <img
+      width="200"
+      alt="GitHub - harshgitdeep"
+      src="https://github.com/user-attachments/assets/e5fa15dd-c66f-4024-a77e-f0fd2982d023"
+    />
+  </a>
+</div>
 </div>
       <br/>
       <p>
